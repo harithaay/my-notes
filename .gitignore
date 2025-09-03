@@ -1,0 +1,15 @@
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore Word docs
+*.docx
+
+# Ignore compiled files
+/build/
+
+# Ignore OS / editor files
+.DS_Store
+Thumbs.db
